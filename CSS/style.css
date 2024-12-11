@@ -13,7 +13,10 @@ body{
     height: 70px;
 }
 .carousel-inner,
-carousel-inner  img{
+.carousel-inner  img{
     height: 700px;
     object-fit: none;
+}
+.row{
+margin-top: 50px;
 }
