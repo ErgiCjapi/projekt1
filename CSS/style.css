@@ -17,3 +17,6 @@ body{
     height: 700px;
     object-fit: none;
 }
+.row{
+margin-top: 50px;
+}
