@@ -20,3 +20,30 @@ body{
 .row{
 margin-top: 50px;
 }
+iframe{
+    width: 600px;
+    height: 450px;
+}
+/*media screen responsivitet*/
+/*max,min mini-max*/
+@media screen and (max-width:992px) {
+    iframe{
+        width:100%;}
+}
+@media screen and (max-width:600px){
+    iframe{
+        width: 100%;
+    }
+}
+    
+@media screen and (max-width:400px){
+    iframe{
+        width: 100%;
+    }
+}
+@media screen and (max-width:200px){
+    iframe{
+        width: 100%;
+    }
+}
+   
